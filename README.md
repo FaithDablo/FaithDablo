@@ -1,7 +1,6 @@
 ## Hi there, I am Faith Dablo!👋
 ## Education: 
-New Era University – Bachelor of Information and Technology
-Skill Sets:
+•**BS Information and Technology**
 
 Programming: Java, JavaScript
 
