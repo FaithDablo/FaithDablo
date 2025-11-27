@@ -2,12 +2,16 @@
 I’m a dedicated BS Information Technology (BSIT) student with a strong passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, networks, and tools that help me create efficient and meaningful solutions.
 ## Education
 •**BS Information and Technology**
+
 New Era University
+
 2024 - Present
 
 ## Skill Sets
 •Programming: Java, JavaScript
+
 •Databases: SQL
+
 •Tools: Lucidchart, Eclipse, HTML
 
 ## Let's Connect!
