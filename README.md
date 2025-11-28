@@ -7,7 +7,8 @@ New Era University
 
 2024 - Present
 
-## Certification 
+## Certifications
+•[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6adefa78909b4016a85ca25962e59693)
 
 
 ## Skill Sets
