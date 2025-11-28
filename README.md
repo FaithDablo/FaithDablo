@@ -2,8 +2,8 @@
 I’m a dedicated BS Information Technology (BSIT) student with a strong passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, networks, and tools that help me create efficient and meaningful solutions.
 ## Education
 •**BS Information and Technology**
-New Era University
-2024 - Present
+☼ New Era University
+☼ 2024 - Present
 
 ## Certifications
 •[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6adefa78909b4016a85ca25962e59693)
