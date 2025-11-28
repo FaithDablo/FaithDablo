@@ -19,7 +19,7 @@ I’m a dedicated BS Information Technology (BSIT) student with a strong passion
 •Tools: Lucidchart, Eclipse, HTML
 
 ## Let's Connect!
-LinkedIn:[Faith Dablo]((http://linkedin.com/in/faith-dablo-0a0517330/)
+LinkedIn:[Faith Dablo](http://linkedin.com/in/faith-dablo-0a0517330/)
 
 Email: faye.dablo@gmail.com
 
