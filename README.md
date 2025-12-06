@@ -11,7 +11,7 @@ I’m a dedicated BS Information Technology (BSIT) student with a strong passion
 ## Certifications
 •[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6adefa78909b4016a85ca25962e59693)
 
-•[ Become An OCI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E6AB7625BDA831F2283649C1D6C9E479837EA1BDC50E9724916CC41C5D44372)
+•[OCI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=0E6AB7625BDA831F2283649C1D6C9E479837EA1BDC50E9724916CC41C5D44372)
 
 ## Skill Sets
 •Programming: Java, JavaScript
