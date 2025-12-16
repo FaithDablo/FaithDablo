@@ -15,7 +15,7 @@ I’m a dedicated BS Information Technology (BSIT) student with a strong passion
 
 •[Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BD7E44CD65109AC50A40791A93E82E14D806B007CDC18312F4F2B51C10C23D56)
 
-•[OCI AI Foundations Associate (2025)](•[Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BD7E44CD65109AC50A40791A93E82E14D806B007CDC18312F4F2B51C10C23D56))
+•[OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BD7E44CD65109AC50A40791A93E82E14D806B007CDC18312F4F2B51C10C23D56))
 
 ## Skill Sets
 •Programming: Java, JavaScript
