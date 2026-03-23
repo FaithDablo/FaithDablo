@@ -8,6 +8,8 @@ I’m a dedicated BS Information Technology (BSIT) student with a strong passion
  
  2024 - Present
 
+## Personal Project
+
 ## Certifications
 •[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/6adefa78909b4016a85ca25962e59693)
 
