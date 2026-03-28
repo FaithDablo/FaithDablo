@@ -10,6 +10,7 @@ I’m a dedicated BS Information Technology (BSIT) student with a strong passion
 
 ## Personal Project
 •[NEU Library Portal](https://neu-library-system.page.gd/)
+
 •[Codes](https://drive.google.com/drive/folders/1gW77FNsq9i-4eaGodvi94Sm30RM5i77z?usp=sharing)
 
 ## Certifications
